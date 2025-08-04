@@ -24,3 +24,5 @@ If you plan to explore everything this darknet marketplace provides, always prio
 
 <a href="http://7srgawrj4hyjbnrnfhkewds4iu4fu6poypbyap6gwptcasnpwzgjjyyd.onion"><img src="/config/picture.webp" alt="image" style="max-width: 100%;"><a>  
 <a href="http://7srgawrj4hyjbnrnfhkewds4iu4fu6poypbyap6gwptcasnpwzgjjyyd.onion"><img src="/config/report.webp" alt="image" style="max-width: 100%;"><a>
+
+Update:  04 August
