@@ -29,4 +29,6 @@ If you plan to explore everything this darknet marketplace provides, always prio
 
 
 
-Update:  19 August 2025 onion URLs fixed
+
+
+Update:  23 August 2025 Fixed broken link, now accessible and live
