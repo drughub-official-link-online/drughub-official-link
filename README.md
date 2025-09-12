@@ -31,4 +31,6 @@ If you plan to explore everything this darknet marketplace provides, always prio
 
 
 
-Update:  23 August 2025 Fixed broken link, now accessible and live
+
+
+Update:  12.09.2025
