@@ -35,4 +35,6 @@ If you plan to explore everything this darknet marketplace provides, always prio
 
 
 
-Update:  14 September 2025
+
+
+Update:  18 September 2025
